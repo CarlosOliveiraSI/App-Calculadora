@@ -2,18 +2,18 @@
 
 Este é um projeto base de uma calculadora simples desenvolvida em **Java** para a plataforma **Android**, compatível com dispositivos que utilizam **Android 13 (Tiramisu)** ou superior.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Operações básicas: soma, subtração, multiplicação, divisão e porcentagem
 - Validação de erros de entrada
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java
 - Android Studio
 - XML (para layout)
 
-## 📲 Requisitos para rodar
+## Requisitos para rodar
 
 - Android Studio instalado
 - SDK do Android 13+
